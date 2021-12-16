@@ -1,0 +1,18 @@
+textarea {
+  background-color: whitesmoke;
+  color: black;
+  border: solid 4px;
+  border-color: black;
+  width: stretch;
+  height: 300px;
+}
+#preview {
+  user-select: none;
+  border: solid 4px;
+  border-color: black;
+  width: stretch;
+  height: stretch;
+}
+img {
+  width: 100%;
+}
